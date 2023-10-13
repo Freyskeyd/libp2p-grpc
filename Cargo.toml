@@ -1,0 +1,9 @@
+[package]
+name = "libp2p-grpc"
+version = "0.1.0"
+edition = "2021"
+description = "libp2p grpc support implementation"
+license = "MIT"
+
+[dependencies]
+libp2p = "0.52.3"
